@@ -1,0 +1,25 @@
+- Y -> In Gate
+- R -> Vigilance Office
+- T -> Visitor Parking
+- C -> Syed Babar Ali School of Science & Engineering
+- J2 -> Male Hostels
+- S -> Free Car Parking
+- U -> Football Ground
+- P -> Cricket Ground
+- V -> Hockey Ground
+- Q -> Coco-Cola Aquatic Center
+- M -> Tennis Court
+- O -> Sport Comples(Gyms)
+- N -> Volleyball Court
+- F -> Rousing Executive Developement Center
+- H -> Executive Dining Center
+- L -> Super Store/ ATM
+- B -> Mushtaq Ahmad Gurmani School of Humanities and Social Sciences(VC Office - Academic Bloc)
+- G -> Gad & Birgit Rausing Library
+- E -> Syed Ahsan Ali & Syed Martib Ali School of Education
+- K4 -> Female Hostels
+- W -> VC House
+- I -> Mosque
+- A -> Suleman Dawood School of Business
+- X -> Day Care Center
+- Z -> Out Gate
