@@ -23,3 +23,4 @@
 - A -> Suleman Dawood School of Business
 - X -> Day Care Center
 - Z -> Out Gate
+Some new location for testing purpose
